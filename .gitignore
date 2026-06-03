@@ -182,6 +182,10 @@ cmake-build-*/
 
 # asm
 *.elf
+*.out
+*.o
+*.so
+*.a
 *.bin
 
 # Go
